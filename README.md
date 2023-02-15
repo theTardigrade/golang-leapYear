@@ -4,6 +4,8 @@ This is a simple Go package that deals with leap years.
 
 There is only one public function, which determines whether a given year contains a leap day or not. 
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/theTardigrade/golang-leapYear)](https://goreportcard.com/report/github.com/theTardigrade/golang-leapYear)
+
 ## Example
 
 ```golang
