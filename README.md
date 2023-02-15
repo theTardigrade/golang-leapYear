@@ -18,7 +18,7 @@ import (
 
 func main() {
 	fmt.Println(leapYear.Is(1960)) // true
-    fmt.Println(leapYear.Is(1961)) // false
+	fmt.Println(leapYear.Is(1961)) // false
 	fmt.Println(leapYear.Is(2000)) // true
 	fmt.Println(leapYear.Is(1800)) // false
 	fmt.Println(leapYear.Is(1804)) // true
