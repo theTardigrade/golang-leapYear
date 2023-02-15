@@ -2,8 +2,7 @@
 
 This is a simple Go package that deals with leap years.
 
-In the Gregorian calendar, a leap year has 366 days, whereas other years have only 365.
-// Approximately one out of every four years is a leap year.
+In the Gregorian calendar, a leap year has 366 days, whereas other years have only 365. Approximately one out of every four years is a leap year. Every other year is known as a common year.
 
 There is only one public function, which determines whether a given year contains a leap day or not. 
 
