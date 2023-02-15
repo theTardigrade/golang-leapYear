@@ -4,11 +4,13 @@ This is a simple Go package that deals with leap years.
 
 There is only one public function, which determines whether a given year contains a leap day or not. 
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/theTardigrade/golang-leapYear)](https://goreportcard.com/report/github.com/theTardigrade/golang-leapYear)
+
+## What Is a Leap Year?
+
 In the Gregorian calendar, a leap year has 366 days, whereas other years have only 365. The extra day is known as a leap day.
 
 Approximately one out of every four years is a leap year. Every other year is known as a common year.
-
-[![Go Report Card](https://goreportcard.com/badge/github.com/theTardigrade/golang-leapYear)](https://goreportcard.com/report/github.com/theTardigrade/golang-leapYear)
 
 ## Example
 
