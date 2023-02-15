@@ -2,7 +2,9 @@
 
 This is a simple Go package that deals with leap years.
 
-There is only one public function, which determines whether a given year contains a leap day or not. 
+The `Is` function determines whether a given year contains a leap day or not.
+
+There are also `Next` and `Prev` functions: the former attempts to find the next leap year after a given year, and the latter attempts to find the previous leap year before a given year.
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/theTardigrade/golang-leapYear)](https://goreportcard.com/report/github.com/theTardigrade/golang-leapYear)
 
@@ -30,6 +32,12 @@ func main() {
 	fmt.Println(leapYear.Is(2000)) // true
 	fmt.Println(leapYear.Is(1800)) // false
 	fmt.Println(leapYear.Is(1804)) // true
+
+	fmt.Println(leapYear.Next(2020)) // 2024, true
+	fmt.Println(leapYear.Next(1977)) // 1980, true
+
+	fmt.Println(leapYear.Prev(2020)) // 2016, true
+	fmt.Println(leapYear.Prev(1977)) // 1976, true
 }
 ```
 
