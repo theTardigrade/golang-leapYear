@@ -12,7 +12,7 @@ There are also `Next` and `Prev` functions: the former attempts to find the next
 
 ## What Is a Leap Year?
 
-In the Gregorian calendar, a leap year has 366 days, whereas other years have only 365. The extra day is known as a leap day.
+In the Gregorian calendar, a leap year is a year that has 366 days, whereas other years have only 365. The extra day is known as a leap day.
 
 Approximately one out of every four years is a leap year. Every other year is known as a common year.
 
