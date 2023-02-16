@@ -6,7 +6,7 @@ The `Is` function determines whether a given year contains a leap day or not.
 
 There are also `Next` and `Prev` functions: the former attempts to find the next leap year after a given year, and the latter attempts to find the previous leap year before a given year.
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/theTardigrade/golang-leapYear)](https://goreportcard.com/report/github.com/theTardigrade/golang-leapYear)
+[![Go Reference](https://pkg.go.dev/badge/github.com/theTardigrade/golang-leapYear.svg)](https://pkg.go.dev/github.com/theTardigrade/golang-leapYear) [![Go Report Card](https://goreportcard.com/badge/github.com/theTardigrade/golang-leapYear)](https://goreportcard.com/report/github.com/theTardigrade/golang-leapYear)
 
 ## What Is a Leap Year?
 
