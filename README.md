@@ -14,6 +14,8 @@ In the Gregorian calendar, a leap year has 366 days, whereas other years have on
 
 Approximately one out of every four years is a leap year. Every other year is known as a common year.
 
+For more information, please read [this blog post](https://golangprojectstructure.com/work-out-if-a-year-is-a-leap-year/).
+
 ## Example
 
 ```golang
