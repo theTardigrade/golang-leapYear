@@ -4,7 +4,7 @@ This is a simple Go package that deals with leap years.
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/theTardigrade/golang-leapYear.svg)](https://pkg.go.dev/github.com/theTardigrade/golang-leapYear) [![Go Report Card](https://goreportcard.com/badge/github.com/theTardigrade/golang-leapYear)](https://goreportcard.com/report/github.com/theTardigrade/golang-leapYear)
 
-## Brief Description of the Public Functions
+## Introducing the Public Functions
 
 The `Is` function determines whether a given year contains a leap day or not.
 
